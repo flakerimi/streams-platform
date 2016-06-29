@@ -143,5 +143,8 @@ return [
         'hi'    => [
             'direction' => 'ltr'
         ]
+        'sq'    => [
+            'direction' => 'ltr'
+        ]
     ]
 ];
